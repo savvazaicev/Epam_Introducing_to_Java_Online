@@ -30,8 +30,4 @@ public class Calendar {
     public Weekend get(int index) {
         return weekends.get(index);
     }
-
-//    public void add(Weekend weekend) {
-//        this.weekends = weekends;
-//    }
 }

@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.ArrayList;
-
 import static com.company.BankAccount.findBankAcc;
 
 //Счета. Клиент может иметь несколько счетов в банке. Учитывать возможность блокировки/разблокировки
@@ -11,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         Client client1 = new Client(1, "Савелий", "Зайцев");
-        Client client2 = new Client(2, "Дональд", "Трамп",10000);
+        Client client2 = new Client(2, "Дональд", "Трамп", 10000);
         client1.addBankAccount(1000);
         client2.addBankAccount(100000);
         client2.addBankAccount(-100);
@@ -22,14 +20,14 @@ public class Main {
         System.out.println(client1.getBankAccount(0).getCountOfMoney());
         System.out.println("Блокируем второй счёт: ");
         client1.getBankAccount(1).setBlocked(true);
-        if (client1.getBankAccount(1).isBlocked()){
+        if (client1.getBankAccount(1).isBlocked()) {
             System.out.println("Счёт заблокирован");
         }
         System.out.println("\n" + "Поиск счёта по имени и индексу: ");
-        Client[] clients = {client1,client2};
+        Client[] clients = {client1, client2};
         String name = "Дональд";
         int index = 1;
-        findBankAcc(name,index,clients);
+        findBankAcc(name, index, clients);
         System.out.println("\n" + "Счета в банке второго клиента: ");
         for (int i = 0; i < client2.getBankAccounts().size(); i++) {
             client2.getBankAccount(i).output();

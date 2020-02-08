@@ -18,7 +18,6 @@ import java.text.ParseException;
 //• Особое условие: проверку введенной информации на валидность должен
 //осуществлять код, непосредственно добавляющий информацию.
 public class Main {
-    //FIXME Разобраться где правильнее всего обрабатывать исключения
     public static void main(String[] args) throws IOException, ParseException {
         Notebook notebook = new Notebook();
         notebook.readData();

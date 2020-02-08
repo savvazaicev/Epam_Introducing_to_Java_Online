@@ -25,28 +25,8 @@ public class Client {
         addBankAccount(countOfMoney);
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getSurname() {
-        return surname;
-    }
-
-    public void setSurname(String surname) {
-        this.surname = surname;
     }
 
     public BankAccount getBankAccount(int index) {
@@ -55,10 +35,6 @@ public class Client {
 
     public ArrayList<BankAccount> getBankAccounts() {
         return bankAccounts;
-    }
-
-    public void setBankAccounts(ArrayList<BankAccount> bankAccounts) {
-        this.bankAccounts = bankAccounts;
     }
 
     public void addBankAccount() {

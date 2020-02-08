@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Список покупателей в алфавитном порядке (по фамилии): ");
         customers.output(customers.sortByAlphabet());
         System.out.println('\n' + "Список покупателей, у которых номер кредитной карточки находится в заданном интервале: ");
-        customers.output(customers.sortByCreditCardNumber(2000,5000));
+        customers.output(customers.sortByCreditCardNumber(2000, 5000));
         System.out.println('\n' + "Данные по заданным критериям: ");
         for (int i = 0; i < customers.size(); i++) {
             if (customers.get(i).getId() > 2 && customers.get(i).getId() < 5) {

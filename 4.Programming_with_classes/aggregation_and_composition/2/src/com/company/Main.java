@@ -9,7 +9,7 @@ public class Main {
         Wheel wheel2 = new Wheel(30);
         Wheel wheel3 = new Wheel(50);
         Car lamborgini = new Car("Lamborgini", 100, wheel1);
-        Car porshe = new Car("Porshe", 50,wheel2);
+        Car porshe = new Car("Porshe", 50, wheel2);
         lamborgini.drive();
         porshe.refuel();
         System.out.println("Диаметр колеса " + lamborgini.getModel() + ": " + lamborgini.getWheel().getDiameter());

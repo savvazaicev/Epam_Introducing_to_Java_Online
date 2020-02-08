@@ -7,13 +7,13 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        Time time = new Time(13,37,0);
+        Time time = new Time(13, 37, 0);
         System.out.println("Пытаемся выйти за диапазон допустимых значений: " + '\n');
         Time time1 = new Time(24);
         time1.output();
-        Time time2 = new Time(23,60);
+        Time time2 = new Time(23, 60);
         time2.output();
-        Time time3 = new Time(23,59,60);
+        Time time3 = new Time(23, 59, 60);
         time3.output();
         time.setSeconds(60);
         time.setSeconds(-1);
@@ -21,10 +21,10 @@ public class Main {
         System.out.println("Выведем заданное время: ");
         time.output();
         System.out.println("Установим время на полдень: ");
-        time.changeTime(12,0);
+        time.changeTime(12, 0);
         time.output();
         System.out.println("Изменим время на 23:59:59");
-        time.changeTime(23,59,59);
+        time.changeTime(23, 59, 59);
         time.output();
     }
 }

@@ -1,7 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="885cd5bf-1689-47a2-bfe0-f9363395cc52" name="Default Changelist" comment="" />
+    <list default="true" id="885cd5bf-1689-47a2-bfe0-f9363395cc52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1.0.Java Fundamentals/1.0.Java Fundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask1/MainTask1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/MainTask2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/out/production/MainTask2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/MainTask3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/out/production/MainTask3/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask3/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/MainTask4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/out/production/MainTask4/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask4/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/MainTask5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/out/production/MainTask5/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/MainTask5/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/Maintask11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/out/production/Maintask11/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/Maintask11/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/OptionalTask1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/out/production/OptionalTask1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/OptionalTask2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/out/production/OptionalTask2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.0.Java Fundamentals/OptionalTask2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.Basics of software code development" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.Basics of software code development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.Algorithmization" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.Algorithmization" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.Strings_and_basics_of_text_processing" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.Strings_and_basics_of_text_processing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/out/production/1/com/company/Sentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/out/production/1/com/company/Sentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/out/production/1/com/company/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/out/production/1/com/company/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/src/com/company/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/1/src/com/company/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/out/production/2/com/company/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/out/production/2/com/company/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/out/production/2/com/company/Wheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/out/production/2/com/company/Wheel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/src/com/company/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/District.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/District.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/Region.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/Region.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/out/production/3/com/company/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/src/com/company/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/3/src/com/company/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/out/production/4/com/company/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/out/production/4/com/company/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/out/production/4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/out/production/4/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/src/com/company/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/src/com/company/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/4/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/out/production/5/com/company/Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/out/production/5/com/company/Days.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/out/production/5/com/company/Nutrition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/out/production/5/com/company/Nutrition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/out/production/5/com/company/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/out/production/5/com/company/Transport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/src/com/company/Vouchers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/aggregation_and_composition/5/src/com/company/Vouchers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/1/src/com/company/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/1/src/com/company/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/out/production/10/com/company/Airline.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/out/production/10/com/company/Airline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/out/production/10/com/company/Airlines.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/out/production/10/com/company/Airlines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/src/com/company/Airline.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/src/com/company/Airline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/10/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/2/src/com/company/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/2/src/com/company/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/out/production/3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/out/production/3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/src/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/3/src/com/company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/out/production/4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/out/production/4/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/out/production/4/com/company/Train.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/out/production/4/com/company/Train.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/src/com/company/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/4/src/com/company/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/src/com/company/DemicalCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/src/com/company/DemicalCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/5/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/out/production/6/com/company/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/out/production/6/com/company/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/src/com/company/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/6/src/com/company/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/7/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/7/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/7/src/com/company/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/7/src/com/company/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/out/production/8/com/company/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/out/production/8/com/company/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/out/production/8/com/company/Customers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/out/production/8/com/company/Customers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/src/com/company/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/src/com/company/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/8/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/out/production/9/com/company/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/out/production/9/com/company/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/out/production/9/com/company/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/out/production/9/com/company/Books.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/src/com/company/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../4.Programming_with_classes/simplest_classes_and_objects/9/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/Directory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/TextFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/TextFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/TextFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/out/production/1/com/company/TextFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/src/com/company/TextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/src/com/company/TextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/иерархия классы.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/1/иерархия классов.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/out/production/2/META-INF/2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/src/com/company/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/2/src/com/company/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/src/com/company/Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/src/com/company/Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/out/production/4/com/company/Treasures.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/out/production/4/com/company/Treasures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/src/com/company/Treasures.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/4/src/com/company/Treasures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/out/production/5/com/company/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/out/production/5/com/company/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/out/production/5/com/company/Present.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/out/production/5/com/company/Present.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/out/production/5/com/company/Sweets.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/out/production/5/com/company/Sweets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/src/com/company/Present.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.Basics_of_OOP/5/src/com/company/Present.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/src/com/company/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/com/company/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/out/production/2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2/out/production/2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/out/production/2/com/company/Notebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2/out/production/2/com/company/Notebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/src/com/company/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/src/com/company/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/src/com/company/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/src/com/company/Notebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/src/com/company/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/src/com/company/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/4/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Harbor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Harbor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Pier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Pier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Ship.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +216,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1XRGRoNiglXw3fQKmdfc1UVps2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,22 +274,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="199" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581097464874" />
-    <state width="1921" height="306" key="GridCell.Tab.0.bottom" timestamp="1581174726012">
+    <state width="1921" height="295" key="GridCell.Tab.0.bottom" timestamp="1581187987074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581174726012" />
-    <state width="1921" height="306" key="GridCell.Tab.0.center" timestamp="1581174726012">
+    <state width="1921" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581187987074" />
+    <state width="1921" height="295" key="GridCell.Tab.0.center" timestamp="1581187987074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="306" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581174726012" />
-    <state width="1921" height="306" key="GridCell.Tab.0.left" timestamp="1581174726011">
+    <state width="1921" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581187987074" />
+    <state width="1921" height="295" key="GridCell.Tab.0.left" timestamp="1581187987074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="306" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581174726011" />
-    <state width="1921" height="306" key="GridCell.Tab.0.right" timestamp="1581174726012">
+    <state width="1921" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581187987074" />
+    <state width="1921" height="295" key="GridCell.Tab.0.right" timestamp="1581187987074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="306" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581174726012" />
+    <state width="1921" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581187987074" />
     <state width="1921" height="306" key="GridCell.Tab.1.bottom" timestamp="1581174726012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,16 +314,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="62" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581074778251" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

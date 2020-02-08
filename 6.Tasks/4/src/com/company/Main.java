@@ -48,35 +48,5 @@ public class Main {
                 e.printStackTrace();
             }
         }
-//        Thread firstThread = new Thread(new Runnable() {
-//            public void run() {
-//                harbor.addShipToFreePier(firstShip);
-//            }
-//        });
-//        firstThread.start();
-//        Thread secondThread = new Thread(new Runnable() {
-//            public void run() {
-//                harbor.addShipToFreePier(secondShip);
-//            }
-//        });
-//        secondThread.start();
-//        Thread ThirdThread = new Thread(new Runnable() {
-//            public void run() {
-//                harbor.addShipToFreePier(thirdShip);
-//            }
-//        });
-//        ThirdThread.start();
-//        Thread fourthThread = new Thread(new Runnable() {
-//            public void run() {
-//                harbor.addShipToFreePier(fourthShip);
-//            }
-//        });
-//        fourthThread.start();
-//        Thread fifthThread = new Thread(new Runnable() {
-//            public void run() {
-//                harbor.addShipToFreePier(fifthShip);
-//            }
-//        });
-//        fifthThread.start();
     }
 }

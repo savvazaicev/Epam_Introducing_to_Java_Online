@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.ArrayList;
-
 //Создать класс Book, спецификация которого приведена ниже. Определить конструкторы, set- и get- методы и
 //метод toString(). Создать второй класс, агрегирующий массив типа Book, с подходящими конструкторами и
 //методами. Задать критерии выбора данных и вывести эти данные на консоль.
@@ -40,10 +38,6 @@ public class Book {
         return id;
     }
 
-    public String getName() {
-        return name;
-    }
-
     public String getAuthors() {
         return authors;
     }
@@ -54,50 +48,6 @@ public class Book {
 
     public int getYearOfPublishing() {
         return yearOfPublishing;
-    }
-
-    public int getCountOfPages() {
-        return countOfPages;
-    }
-
-    public int getPrice() {
-        return price;
-    }
-
-    public String getBindingType() {
-        return bindingType;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setAuthors(String authors) {
-        this.authors = authors;
-    }
-
-    public void setPublisher(String publisher) {
-        this.publisher = publisher;
-    }
-
-    public void setYearOfPublishing(int yearOfPublishing) {
-        this.yearOfPublishing = yearOfPublishing;
-    }
-
-    public void setCountOfPages(int countOfPages) {
-        this.countOfPages = countOfPages;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
-    }
-
-    public void setBindingType(String bindingType) {
-        this.bindingType = bindingType;
     }
 
     @Override
@@ -112,60 +62,5 @@ public class Book {
                 ", price=" + price +
                 ", bindingType='" + bindingType + '\'' +
                 '}';
-    }
-}
-
-class Books {
-    private ArrayList<Book> books;
-
-    public Books(ArrayList<Book> books) {
-        this.books = books;
-    }
-
-    public void output(ArrayList<Book> books) {
-        for (Book i : books) {
-            i.output();
-        }
-    }
-
-    public ArrayList<Book> listByAuthor(String author) {
-        ArrayList<Book> sortedBooks = new ArrayList<>();
-        for (Book i :
-                books) {
-            if (i.getAuthors().indexOf(author) != -1) {
-                i.output();
-            }
-        }
-        return sortedBooks;
-    }
-
-    public ArrayList<Book> listByPublisher(String publisher) {
-        ArrayList<Book> sortedBooks = new ArrayList<>();
-        for (Book i :
-                books) {
-            if (i.getPublisher().equals(publisher)) {
-                i.output();
-            }
-        }
-        return sortedBooks;
-    }
-
-    public ArrayList<Book> listByYear(int fromYear) {
-        ArrayList<Book> sortedBooks = new ArrayList<>();
-        for (Book i :
-                books) {
-            if (i.getYearOfPublishing() >= fromYear) {
-                i.output();
-            }
-        }
-        return sortedBooks;
-    }
-
-    public int size() {
-        return this.books.size();
-    }
-
-    public Book get(int i) {
-        return this.books.get(i);
     }
 }

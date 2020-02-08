@@ -7,8 +7,8 @@ public class Main {
     public static void main(String[] args) {
         TextFiles textFiles = new TextFiles();
         //создать
-        textFiles.create("имя","содержимое","TextFiles");
-        textFiles.create("имя_2","содержимое_2","TextFiles_2");
+        textFiles.create("имя", "содержимое", "TextFiles");
+        textFiles.create("имя_2", "содержимое_2", "TextFiles_2");
         //удалить
         textFiles.delete(1);
         //переименовать

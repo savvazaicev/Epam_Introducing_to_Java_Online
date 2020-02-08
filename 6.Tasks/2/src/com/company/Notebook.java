@@ -161,6 +161,4 @@ public class Notebook {
         Note note = new Note(topic, date, email, content);
         notes.add(note);
     }
-
 }
-

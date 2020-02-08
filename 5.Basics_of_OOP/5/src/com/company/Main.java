@@ -14,10 +14,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	Sweets sweets1 = new Sweets("Леденцы");
-	Present present1 = new Present("Бумага",sweets1,1);
-	Sweets sweets2 = new Sweets("Конфеты");
-	Present present2 = new Present("Полиэтилен",sweets2, 2);
+        Sweets sweets1 = new Sweets("Леденцы");
+        Present present1 = new Present("Бумага", sweets1, 1);
+        Sweets sweets2 = new Sweets("Конфеты");
+        Present present2 = new Present("Полиэтилен", sweets2, 2);
         System.out.println(present1.toString());
         System.out.println(present2.toString());
     }

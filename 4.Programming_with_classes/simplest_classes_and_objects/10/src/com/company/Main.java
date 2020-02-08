@@ -19,14 +19,14 @@ public class Main {
         Airline airline3 = new Airline("Abcde", 3, "a", 5, "Mon");
         Airline airline4 = new Airline("Defgh", 4, "b", 6, "Fr");
         Airline airline5 = new Airline("Efghi", 5, "a", 7, "Fr Thu");
-        ArrayList<Airline> airlinesArrayList = new ArrayList<>(Arrays.asList(airline1,airline2,airline3,airline4,airline5));
+        ArrayList<Airline> airlinesArrayList = new ArrayList<>(Arrays.asList(airline1, airline2, airline3, airline4, airline5));
         Airlines airlines = new Airlines(airlinesArrayList);
         System.out.println("Cписок рейсов для заданного пункта назначения: ");
         airlines.output(airlines.listByDestination("Abcde"));
         System.out.println('\n' + "Список рейсов для заданного дня недели: ");
         airlines.output(airlines.listByDayOfWeek("Thu"));
         System.out.println('\n' + "Список рейсов для заданного дня недели, время вылета для которых больше заданного: ");
-        airlines.output(airlines.listByDayOfWeek("Thu",5));
+        airlines.output(airlines.listByDayOfWeek("Thu", 5));
         System.out.println('\n' + "Данные по заданным критериям: ");
         for (int i = 0; i < airlines.size(); i++) {
             if (airlines.get(i).getFlightNumber() > 2 && airlines.get(i).getFlightNumber() < 5) {

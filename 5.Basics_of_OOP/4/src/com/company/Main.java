@@ -37,7 +37,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         while (in.hasNextInt()) {
             int num = in.nextInt();
-            if (num == -1){
+            if (num == -1) {
                 System.out.println("Остаток на балансе: " + amountOfMoney + "$");
                 break;
             }
@@ -60,4 +60,3 @@ public class Main {
         }
     }
 }
-

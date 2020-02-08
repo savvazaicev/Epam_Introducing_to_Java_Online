@@ -3,8 +3,8 @@ package com.company;
 import java.util.ArrayList;
 
 //Порт. Корабли заходят в порт для разгрузки/загрузки контейнеров.
-//TODO Число контейнеров, находящихся в текущий момент в порту и на корабле,
-// - должно быть неотрицательным и не превышающим заданную грузоподъемность судна и вместимость порта.
+//Число контейнеров, находящихся в текущий момент в порту и на корабле,
+//должно быть неотрицательным и не превышающим заданную грузоподъемность судна и вместимость порта.
 //В порту работает несколько причалов. У одного причала может стоять один корабль.
 //Корабль может загружаться у причала или разгружаться.
 public class Harbor {
@@ -81,7 +81,6 @@ public class Harbor {
                             ship.removeContainer(container);
                         }
                     }
-                    //containers.addAll(ship.getContainers());
                     System.out.println("Корабль разгружен!");
                     pier.setShip(null);
                     pier.setLoading(false);
@@ -95,15 +94,8 @@ public class Harbor {
 
     public int numberOfContainers(Ship ship) {
         int numberOfContainers = 0;
-//        for (Pier pier : piers) {
-//            if (pier.isLoading()) {
-//                numberOfContainers += pier.getShip().getContainers().size();
-//            }
-//        }
         numberOfContainers += containers.size();
-        //System.out.println("Контейнеров в порту: " + containers.size());
         numberOfContainers += ship.getContainers().size();
-        //System.out.println("Контейнеров на корабле: " + ship.getContainers().size());
         return numberOfContainers;
     }
 }

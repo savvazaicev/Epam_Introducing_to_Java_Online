@@ -51,7 +51,7 @@ public class Train {
         System.out.println();
     }
 
-    public static Train[] sortByDestination(Train[] trains) {
+    public static void sortByDestination(Train[] trains) {
         for (int j = 0; j < trains.length - 1; j++) {
             for (int i = 0; i < trains.length - 1; i++) {
                 if (!compareByAlphabet(trains[i].getDestination(), trains[i + 1].getDestination())) {
@@ -68,7 +68,6 @@ public class Train {
                 }
             }
         }
-        return trains;
     }
 
     private static boolean compareByAlphabet(String word_1, String word_2) {
@@ -87,17 +86,5 @@ public class Train {
 
     public LocalDateTime getDepartureTime() {
         return departureTime;
-    }
-
-    public void setDestination(String destination) {
-        this.destination = destination;
-    }
-
-    public void setNumber(int number) {
-        this.number = number;
-    }
-
-    public void setDepartureTime(LocalDateTime departureTime) {
-        this.departureTime = departureTime;
     }
 }

@@ -62,12 +62,4 @@ public class DemicalCounter {
     public int getRangeTo() {
         return rangeTo;
     }
-
-    public void setRangeFrom(int rangeFrom) {
-        this.rangeFrom = rangeFrom;
-    }
-
-    public void setRangeTo(int rangeTo) {
-        this.rangeTo = rangeTo;
-    }
 }

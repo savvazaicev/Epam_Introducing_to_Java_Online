@@ -39,18 +39,6 @@ public class Time {
         System.out.println(this.hours + " часов " + this.minutes + " минут " + this.seconds + " секунд" + '\n');
     }
 
-    public int getHours() {
-        return hours;
-    }
-
-    public int getMinutes() {
-        return minutes;
-    }
-
-    public int getSeconds() {
-        return seconds;
-    }
-
     public void setHours(int hours) {
         if (hours >= 0 && hours < 24) {
             this.hours = hours;

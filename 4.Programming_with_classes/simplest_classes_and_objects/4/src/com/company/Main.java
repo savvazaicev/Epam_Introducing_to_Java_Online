@@ -4,7 +4,6 @@ import java.time.LocalDateTime;
 
 import static com.company.Train.*;
 
-
 //Создайте класс Train, содержащий поля: название пункта назначения, номер поезда, время отправления.
 //Создайте данные в массив из пяти элементов типа Train, добавьте возможность сортировки элементов массива по
 //номерам поездов. Добавьте возможность вывода информации о поезде, номер которого введен пользователем.
@@ -20,7 +19,7 @@ public class Main {
         Train train5 = new Train("Moscow", 5, LocalDateTime.parse("2019-12-31T07:30"));
         Train[] trains = {train5, train4, train3, train2, train1};
         System.out.println("Сортировка по номерам поездов: ");
-        trains = sortByNumber(trains);
+        sortByNumber(trains);
         output(trains);
         trainInfo(trains);
         System.out.println("Сортировка по пункту назначения: ");
