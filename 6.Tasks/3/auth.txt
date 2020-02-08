@@ -1,0 +1,2 @@
+user@user.ru 51abe52ac3a0cbf546727dd06004c63b user
+admin@admin.ru 837e4c18ecab0971cc18437ce1ec14a5 admin

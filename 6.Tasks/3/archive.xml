@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dossiers>
+  <dossier id="1">
+    <name>Вася</name>
+    <course>1</course>
+    <averageMark>8.0</averageMark>
+    <union>false</union>
+  </dossier>
+  <dossier id="2">
+    <name>Петя</name>
+    <course>2</course>
+    <averageMark>9.0</averageMark>
+    <union>true</union>
+  </dossier>
+</dossiers>
